@@ -1,0 +1,18 @@
+{
+    "name": "curder/helloworld",
+    "description": "A Laravel Package For Demo.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "curder",
+            "email": "curder@foxmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Curder\\HelloWorld\\": "src/"
+        }
+    }
+}
